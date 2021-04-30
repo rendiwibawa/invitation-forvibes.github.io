@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 30 Apr 2021 15:43:10 at https://sidoinikah.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sidoinikah.xyz/ -O1 "D:\###AWebsite\Sidoinikah.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 45 seconds : 378 links scanned, 377 files written (57235402 bytes overall) [23222289 bytes received at 140741 bytes/sec], 46416230 bytes transferred using HTTP compression in 296 files, ratio 26%, 63.5 requests per connection
+(No errors, 0 warnings, 0 messages)
